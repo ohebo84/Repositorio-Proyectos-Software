@@ -1,9 +1,7 @@
 
 <image src="https://media.licdn.com/dms/image/D4D16AQFC45rg_6lUeA/profile-displaybackgroundimage-shrink_350_1400/0/1674022860085?e=1714608000&v=beta&t=fVWuEFeCSnwvMmvohTR4RTuJsbdZYkwQP7CNb6vsTkY" alt="Descripción de la imagen" width="1000px">
 
-<img src="https://gitlab">gitlab.com/example/screenshot" width="48"> ![](test/media/screenshot.png =100x20) ![](test/media/screenshot.png =250x) <img src="https://gitlab.com/example/screenshot" alt="Drawing" style="width: 200px;"/>
-
-  <h1>Portafolio de Proyectos de Oscar Iván Herrera Bonilla</h1>
+<h1>Portafolio de Proyectos de Oscar Iván Herrera Bonilla</h1>
 <p>¡Bienvenido a mi portafolio de proyectos! Aquí encontrarás una muestra de algunos de los proyectos en los que he trabajado y las habilidades que he desarrollado como programador de software</p>
 
 <h2>Habilidades</h2>
