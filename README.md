@@ -1,7 +1,7 @@
 
-<image src="https://media.licdn.com/dms/image/D4D16AQFC45rg_6lUeA/profile-displaybackgroundimage-shrink_350_1400/0/1674022860085?e=1714608000&v=beta&t=fVWuEFeCSnwvMmvohTR4RTuJsbdZYkwQP7CNb6vsTkY" alt="Descripción de la imagen" width="300px">
+<image src="https://media.licdn.com/dms/image/D4D16AQFC45rg_6lUeA/profile-displaybackgroundimage-shrink_350_1400/0/1674022860085?e=1714608000&v=beta&t=fVWuEFeCSnwvMmvohTR4RTuJsbdZYkwQP7CNb6vsTkY" alt="Descripción de la imagen" width="1000px">
 
-https://media.licdn.com/dms/image/D4D16AQFC45rg_6lUeA/profile-displaybackgroundimage-shrink_350_1400/0/1674022860085?e=1714608000&v=beta&t=fVWuEFeCSnwvMmvohTR4RTuJsbdZYkwQP7CNb6vsTkY
+
 
 
   
